@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OlgaGuretskayaLeverX/js-OOP-Abstraction-Polymorphism.git"
+    "url": "git+https://github.com/eduarddossinLeverx/js-OOP-Abstraction-Polymorphism.git"
   },
   "keywords": [
     "oop",
@@ -17,11 +17,11 @@
     "abstraction",
     "polymorphism"
   ],
-  "author": "OlgaGuretskayaLeverX",
+  "author": "eduarddossinLeverx",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/OlgaGuretskayaLeverX/js-OOP-Abstraction-Polymorphism/issues"
+    "url": "https://github.com/eduarddossinLeverx/js-OOP-Abstraction-Polymorphism/issues"
   },
-  "homepage": "https://github.com/OlgaGuretskayaLeverX/js-OOP-Abstraction-Polymorphism#readme"
+  "homepage": "https://github.com/eduarddossinLeverx/js-OOP-Abstraction-Polymorphism#readme"
 }
