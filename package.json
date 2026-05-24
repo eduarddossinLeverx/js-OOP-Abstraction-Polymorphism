@@ -1,0 +1,27 @@
+{
+  "name": "js-oop-abstraction-polymorphism",
+  "version": "1.0.0",
+  "description": "OOP Part 2: Abstraction and Polymorphism",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlgaGuretskayaLeverX/js-OOP-Abstraction-Polymorphism.git"
+  },
+  "keywords": [
+    "oop",
+    "javascript",
+    "abstraction",
+    "polymorphism"
+  ],
+  "author": "OlgaGuretskayaLeverX",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/OlgaGuretskayaLeverX/js-OOP-Abstraction-Polymorphism/issues"
+  },
+  "homepage": "https://github.com/OlgaGuretskayaLeverX/js-OOP-Abstraction-Polymorphism#readme"
+}
